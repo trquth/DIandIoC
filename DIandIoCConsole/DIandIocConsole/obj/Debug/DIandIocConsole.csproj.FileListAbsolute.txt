@@ -13,3 +13,6 @@ C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIoC\DIandIocConsole\DIandIocCon
 D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\bin\Debug\DIandIocConsole.exe.config
 D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\obj\Debug\DIandIocConsole.exe
 D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\obj\Debug\DIandIocConsole.pdb
+D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\bin\Debug\DIandIocConsole.exe
+D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\bin\Debug\DIandIocConsole.pdb
+D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\obj\Debug\DIandIocConsole.csprojResolveAssemblyReference.cache
