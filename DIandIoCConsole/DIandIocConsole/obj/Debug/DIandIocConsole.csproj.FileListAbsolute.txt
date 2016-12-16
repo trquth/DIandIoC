@@ -1,0 +1,15 @@
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIocConsole\DIandIocConsole\bin\Debug\DIandIocConsole.exe.config
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIocConsole\DIandIocConsole\bin\Debug\DIandIocConsole.exe
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIocConsole\DIandIocConsole\bin\Debug\DIandIocConsole.pdb
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIocConsole\DIandIocConsole\obj\Debug\DIandIocConsole.csprojResolveAssemblyReference.cache
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIocConsole\DIandIocConsole\obj\Debug\DIandIocConsole.exe
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIocConsole\DIandIocConsole\obj\Debug\DIandIocConsole.pdb
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIoC\DIandIocConsole\DIandIocConsole\bin\Debug\DIandIocConsole.exe.config
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIoC\DIandIocConsole\DIandIocConsole\obj\Debug\DIandIocConsole.exe
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIoC\DIandIocConsole\DIandIocConsole\obj\Debug\DIandIocConsole.pdb
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIoC\DIandIocConsole\DIandIocConsole\bin\Debug\DIandIocConsole.exe
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIoC\DIandIocConsole\DIandIocConsole\bin\Debug\DIandIocConsole.pdb
+C:\Users\thien.tran\Desktop\DIandIoCConsole\DIandIoC\DIandIocConsole\DIandIocConsole\obj\Debug\DIandIocConsole.csprojResolveAssemblyReference.cache
+D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\bin\Debug\DIandIocConsole.exe.config
+D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\obj\Debug\DIandIocConsole.exe
+D:\Github\DIandIoC\DIandIoCConsole\DIandIocConsole\obj\Debug\DIandIocConsole.pdb
